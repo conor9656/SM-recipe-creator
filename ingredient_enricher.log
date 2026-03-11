@@ -1,0 +1,794 @@
+2026-01-19 21:53:14,331 - INFO - Database schema created/verified at ingredients.db
+2026-01-19 21:53:14,333 - INFO - Found 250 ingredients in CSV file
+2026-01-19 21:53:14,334 - INFO - Processing 1/250: Apple
+2026-01-19 21:53:14,334 - INFO - Searching for: Apple
+2026-01-19 21:53:15,887 - INFO - Found: APPLE (FDC ID: 454004)
+2026-01-19 21:53:17,012 - ERROR - Error processing CSV file: OperationalError - 44 values for 45 columns
+2026-01-19 21:53:17,012 - ERROR - Failed to process ingredients: 44 values for 45 columns
+2026-01-19 21:54:30,793 - INFO - Database schema created/verified at ingredients.db
+2026-01-19 21:54:30,794 - INFO - Found 249 ingredients in CSV file
+2026-01-19 21:54:30,794 - WARNING - Row 1: Empty ingredient name, skipping
+2026-01-19 21:54:30,794 - WARNING - Row 2: Empty ingredient name, skipping
+2026-01-19 21:54:30,794 - WARNING - Row 3: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 4: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 5: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 6: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 7: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 8: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 9: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 10: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 11: Empty ingredient name, skipping
+2026-01-19 21:54:30,795 - WARNING - Row 12: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 13: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 14: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 15: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 16: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 17: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 18: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 19: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 20: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 21: Empty ingredient name, skipping
+2026-01-19 21:54:30,796 - WARNING - Row 22: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 23: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 24: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 25: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 26: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 27: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 28: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 29: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 30: Empty ingredient name, skipping
+2026-01-19 21:54:30,797 - WARNING - Row 31: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 32: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 33: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 34: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 35: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 36: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 37: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 38: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 39: Empty ingredient name, skipping
+2026-01-19 21:54:30,798 - WARNING - Row 40: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 41: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 42: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 43: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 44: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 45: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 46: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 47: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 48: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 49: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 50: Empty ingredient name, skipping
+2026-01-19 21:54:30,799 - WARNING - Row 51: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 52: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 53: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 54: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 55: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 56: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 57: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 58: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 59: Empty ingredient name, skipping
+2026-01-19 21:54:30,800 - WARNING - Row 60: Empty ingredient name, skipping
+2026-01-19 21:54:30,801 - WARNING - Row 61: Empty ingredient name, skipping
+2026-01-19 21:54:30,801 - WARNING - Row 62: Empty ingredient name, skipping
+2026-01-19 21:54:30,801 - WARNING - Row 63: Empty ingredient name, skipping
+2026-01-19 21:54:30,801 - WARNING - Row 64: Empty ingredient name, skipping
+2026-01-19 21:54:30,801 - WARNING - Row 65: Empty ingredient name, skipping
+2026-01-19 21:54:30,801 - WARNING - Row 66: Empty ingredient name, skipping
+2026-01-19 21:54:30,801 - WARNING - Row 67: Empty ingredient name, skipping
+2026-01-19 21:54:30,801 - WARNING - Row 68: Empty ingredient name, skipping
+2026-01-19 21:54:30,802 - WARNING - Row 69: Empty ingredient name, skipping
+2026-01-19 21:54:30,802 - WARNING - Row 70: Empty ingredient name, skipping
+2026-01-19 21:54:30,802 - WARNING - Row 71: Empty ingredient name, skipping
+2026-01-19 21:54:30,802 - WARNING - Row 72: Empty ingredient name, skipping
+2026-01-19 21:54:30,802 - WARNING - Row 73: Empty ingredient name, skipping
+2026-01-19 21:54:30,802 - WARNING - Row 74: Empty ingredient name, skipping
+2026-01-19 21:54:30,802 - WARNING - Row 75: Empty ingredient name, skipping
+2026-01-19 21:54:30,803 - WARNING - Row 76: Empty ingredient name, skipping
+2026-01-19 21:54:30,803 - WARNING - Row 77: Empty ingredient name, skipping
+2026-01-19 21:54:30,803 - WARNING - Row 78: Empty ingredient name, skipping
+2026-01-19 21:54:30,803 - WARNING - Row 79: Empty ingredient name, skipping
+2026-01-19 21:54:30,803 - WARNING - Row 80: Empty ingredient name, skipping
+2026-01-19 21:54:30,803 - WARNING - Row 81: Empty ingredient name, skipping
+2026-01-19 21:54:30,803 - WARNING - Row 82: Empty ingredient name, skipping
+2026-01-19 21:54:30,803 - WARNING - Row 83: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 84: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 85: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 86: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 87: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 88: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 89: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 90: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 91: Empty ingredient name, skipping
+2026-01-19 21:54:30,804 - WARNING - Row 92: Empty ingredient name, skipping
+2026-01-19 21:54:30,805 - WARNING - Row 93: Empty ingredient name, skipping
+2026-01-19 21:54:30,805 - WARNING - Row 94: Empty ingredient name, skipping
+2026-01-19 21:54:30,805 - WARNING - Row 95: Empty ingredient name, skipping
+2026-01-19 21:54:30,805 - WARNING - Row 96: Empty ingredient name, skipping
+2026-01-19 21:54:30,805 - WARNING - Row 97: Empty ingredient name, skipping
+2026-01-19 21:54:30,805 - WARNING - Row 98: Empty ingredient name, skipping
+2026-01-19 21:54:30,805 - WARNING - Row 99: Empty ingredient name, skipping
+2026-01-19 21:54:30,805 - WARNING - Row 100: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 101: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 102: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 103: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 104: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 105: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 106: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 107: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 108: Empty ingredient name, skipping
+2026-01-19 21:54:30,806 - WARNING - Row 109: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 110: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 111: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 112: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 113: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 114: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 115: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 116: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 117: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 118: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 119: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 120: Empty ingredient name, skipping
+2026-01-19 21:54:30,807 - WARNING - Row 121: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 122: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 123: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 124: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 125: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 126: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 127: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 128: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 129: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 130: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 131: Empty ingredient name, skipping
+2026-01-19 21:54:30,808 - WARNING - Row 132: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 133: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 134: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 135: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 136: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 137: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 138: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 139: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 140: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 141: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 142: Empty ingredient name, skipping
+2026-01-19 21:54:30,809 - WARNING - Row 143: Empty ingredient name, skipping
+2026-01-19 21:54:30,810 - WARNING - Row 144: Empty ingredient name, skipping
+2026-01-19 21:54:30,810 - WARNING - Row 145: Empty ingredient name, skipping
+2026-01-19 21:54:30,810 - WARNING - Row 146: Empty ingredient name, skipping
+2026-01-19 21:54:30,810 - WARNING - Row 147: Empty ingredient name, skipping
+2026-01-19 21:54:30,810 - WARNING - Row 148: Empty ingredient name, skipping
+2026-01-19 21:54:30,810 - WARNING - Row 149: Empty ingredient name, skipping
+2026-01-19 21:54:30,810 - WARNING - Row 150: Empty ingredient name, skipping
+2026-01-19 21:54:30,810 - WARNING - Row 151: Empty ingredient name, skipping
+2026-01-19 21:54:30,811 - WARNING - Row 152: Empty ingredient name, skipping
+2026-01-19 21:54:30,811 - WARNING - Row 153: Empty ingredient name, skipping
+2026-01-19 21:54:30,811 - WARNING - Row 154: Empty ingredient name, skipping
+2026-01-19 21:54:30,811 - WARNING - Row 155: Empty ingredient name, skipping
+2026-01-19 21:54:30,811 - WARNING - Row 156: Empty ingredient name, skipping
+2026-01-19 21:54:30,811 - WARNING - Row 157: Empty ingredient name, skipping
+2026-01-19 21:54:30,811 - WARNING - Row 158: Empty ingredient name, skipping
+2026-01-19 21:54:30,811 - WARNING - Row 159: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 160: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 161: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 162: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 163: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 164: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 165: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 166: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 167: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 168: Empty ingredient name, skipping
+2026-01-19 21:54:30,812 - WARNING - Row 169: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 170: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 171: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 172: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 173: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 174: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 175: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 176: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 177: Empty ingredient name, skipping
+2026-01-19 21:54:30,813 - WARNING - Row 178: Empty ingredient name, skipping
+2026-01-19 21:54:30,814 - WARNING - Row 179: Empty ingredient name, skipping
+2026-01-19 21:54:30,814 - WARNING - Row 180: Empty ingredient name, skipping
+2026-01-19 21:54:30,814 - WARNING - Row 181: Empty ingredient name, skipping
+2026-01-19 21:54:30,814 - WARNING - Row 182: Empty ingredient name, skipping
+2026-01-19 21:54:30,814 - WARNING - Row 183: Empty ingredient name, skipping
+2026-01-19 21:54:30,814 - WARNING - Row 184: Empty ingredient name, skipping
+2026-01-19 21:54:30,814 - WARNING - Row 185: Empty ingredient name, skipping
+2026-01-19 21:54:30,815 - WARNING - Row 186: Empty ingredient name, skipping
+2026-01-19 21:54:30,815 - WARNING - Row 187: Empty ingredient name, skipping
+2026-01-19 21:54:30,815 - WARNING - Row 188: Empty ingredient name, skipping
+2026-01-19 21:54:30,815 - WARNING - Row 189: Empty ingredient name, skipping
+2026-01-19 21:54:30,815 - WARNING - Row 190: Empty ingredient name, skipping
+2026-01-19 21:54:30,815 - WARNING - Row 191: Empty ingredient name, skipping
+2026-01-19 21:54:30,815 - WARNING - Row 192: Empty ingredient name, skipping
+2026-01-19 21:54:30,815 - WARNING - Row 193: Empty ingredient name, skipping
+2026-01-19 21:54:30,816 - WARNING - Row 194: Empty ingredient name, skipping
+2026-01-19 21:54:30,816 - WARNING - Row 195: Empty ingredient name, skipping
+2026-01-19 21:54:30,816 - WARNING - Row 196: Empty ingredient name, skipping
+2026-01-19 21:54:30,816 - WARNING - Row 197: Empty ingredient name, skipping
+2026-01-19 21:54:30,816 - WARNING - Row 198: Empty ingredient name, skipping
+2026-01-19 21:54:30,816 - WARNING - Row 199: Empty ingredient name, skipping
+2026-01-19 21:54:30,816 - WARNING - Row 200: Empty ingredient name, skipping
+2026-01-19 21:54:30,816 - WARNING - Row 201: Empty ingredient name, skipping
+2026-01-19 21:54:30,817 - WARNING - Row 202: Empty ingredient name, skipping
+2026-01-19 21:54:30,817 - WARNING - Row 203: Empty ingredient name, skipping
+2026-01-19 21:54:30,817 - WARNING - Row 204: Empty ingredient name, skipping
+2026-01-19 21:54:30,817 - WARNING - Row 205: Empty ingredient name, skipping
+2026-01-19 21:54:30,817 - WARNING - Row 206: Empty ingredient name, skipping
+2026-01-19 21:54:30,818 - WARNING - Row 207: Empty ingredient name, skipping
+2026-01-19 21:54:30,818 - WARNING - Row 208: Empty ingredient name, skipping
+2026-01-19 21:54:30,818 - WARNING - Row 209: Empty ingredient name, skipping
+2026-01-19 21:54:30,818 - WARNING - Row 210: Empty ingredient name, skipping
+2026-01-19 21:54:30,818 - WARNING - Row 211: Empty ingredient name, skipping
+2026-01-19 21:54:30,818 - WARNING - Row 212: Empty ingredient name, skipping
+2026-01-19 21:54:30,818 - WARNING - Row 213: Empty ingredient name, skipping
+2026-01-19 21:54:30,818 - WARNING - Row 214: Empty ingredient name, skipping
+2026-01-19 21:54:30,819 - WARNING - Row 215: Empty ingredient name, skipping
+2026-01-19 21:54:30,819 - WARNING - Row 216: Empty ingredient name, skipping
+2026-01-19 21:54:30,819 - WARNING - Row 217: Empty ingredient name, skipping
+2026-01-19 21:54:30,819 - WARNING - Row 218: Empty ingredient name, skipping
+2026-01-19 21:54:30,819 - WARNING - Row 219: Empty ingredient name, skipping
+2026-01-19 21:54:30,819 - WARNING - Row 220: Empty ingredient name, skipping
+2026-01-19 21:54:30,819 - WARNING - Row 221: Empty ingredient name, skipping
+2026-01-19 21:54:30,819 - WARNING - Row 222: Empty ingredient name, skipping
+2026-01-19 21:54:30,820 - WARNING - Row 223: Empty ingredient name, skipping
+2026-01-19 21:54:30,820 - WARNING - Row 224: Empty ingredient name, skipping
+2026-01-19 21:54:30,820 - WARNING - Row 225: Empty ingredient name, skipping
+2026-01-19 21:54:30,820 - WARNING - Row 226: Empty ingredient name, skipping
+2026-01-19 21:54:30,820 - WARNING - Row 227: Empty ingredient name, skipping
+2026-01-19 21:54:30,820 - WARNING - Row 228: Empty ingredient name, skipping
+2026-01-19 21:54:30,820 - WARNING - Row 229: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 230: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 231: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 232: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 233: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 234: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 235: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 236: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 237: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 238: Empty ingredient name, skipping
+2026-01-19 21:54:30,821 - WARNING - Row 239: Empty ingredient name, skipping
+2026-01-19 21:54:30,822 - WARNING - Row 240: Empty ingredient name, skipping
+2026-01-19 21:54:30,822 - WARNING - Row 241: Empty ingredient name, skipping
+2026-01-19 21:54:30,822 - WARNING - Row 242: Empty ingredient name, skipping
+2026-01-19 21:54:30,822 - WARNING - Row 243: Empty ingredient name, skipping
+2026-01-19 21:54:30,822 - WARNING - Row 244: Empty ingredient name, skipping
+2026-01-19 21:54:30,822 - WARNING - Row 245: Empty ingredient name, skipping
+2026-01-19 21:54:30,822 - WARNING - Row 246: Empty ingredient name, skipping
+2026-01-19 21:54:30,822 - WARNING - Row 247: Empty ingredient name, skipping
+2026-01-19 21:54:30,823 - WARNING - Row 248: Empty ingredient name, skipping
+2026-01-19 21:54:30,823 - WARNING - Row 249: Empty ingredient name, skipping
+2026-01-19 21:54:30,823 - INFO - Successfully processed 249 ingredients
+2026-01-19 21:58:26,128 - INFO - Database schema created/verified at ingredients.db
+2026-01-19 21:58:26,138 - INFO - Found 248 ingredients in CSV file
+2026-01-19 21:58:26,138 - WARNING - Row 1: Empty ingredient name, skipping
+2026-01-19 21:58:26,138 - WARNING - Row 2: Empty ingredient name, skipping
+2026-01-19 21:58:26,138 - WARNING - Row 3: Empty ingredient name, skipping
+2026-01-19 21:58:26,138 - WARNING - Row 4: Empty ingredient name, skipping
+2026-01-19 21:58:26,139 - WARNING - Row 5: Empty ingredient name, skipping
+2026-01-19 21:58:26,139 - WARNING - Row 6: Empty ingredient name, skipping
+2026-01-19 21:58:26,139 - WARNING - Row 7: Empty ingredient name, skipping
+2026-01-19 21:58:26,139 - WARNING - Row 8: Empty ingredient name, skipping
+2026-01-19 21:58:26,139 - WARNING - Row 9: Empty ingredient name, skipping
+2026-01-19 21:58:26,139 - WARNING - Row 10: Empty ingredient name, skipping
+2026-01-19 21:58:26,139 - WARNING - Row 11: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 12: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 13: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 14: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 15: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 16: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 17: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 18: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 19: Empty ingredient name, skipping
+2026-01-19 21:58:26,140 - WARNING - Row 20: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 21: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 22: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 23: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 24: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 25: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 26: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 27: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 28: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 29: Empty ingredient name, skipping
+2026-01-19 21:58:26,141 - WARNING - Row 30: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 31: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 32: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 33: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 34: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 35: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 36: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 37: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 38: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 39: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 40: Empty ingredient name, skipping
+2026-01-19 21:58:26,142 - WARNING - Row 41: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 42: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 43: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 44: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 45: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 46: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 47: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 48: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 49: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 50: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 51: Empty ingredient name, skipping
+2026-01-19 21:58:26,143 - WARNING - Row 52: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 53: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 54: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 55: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 56: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 57: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 58: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 59: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 60: Empty ingredient name, skipping
+2026-01-19 21:58:26,144 - WARNING - Row 61: Empty ingredient name, skipping
+2026-01-19 21:58:26,145 - WARNING - Row 62: Empty ingredient name, skipping
+2026-01-19 21:58:26,145 - WARNING - Row 63: Empty ingredient name, skipping
+2026-01-19 21:58:26,145 - WARNING - Row 64: Empty ingredient name, skipping
+2026-01-19 21:58:26,145 - WARNING - Row 65: Empty ingredient name, skipping
+2026-01-19 21:58:26,145 - WARNING - Row 66: Empty ingredient name, skipping
+2026-01-19 21:58:26,145 - WARNING - Row 67: Empty ingredient name, skipping
+2026-01-19 21:58:26,145 - WARNING - Row 68: Empty ingredient name, skipping
+2026-01-19 21:58:26,145 - WARNING - Row 69: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 70: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 71: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 72: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 73: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 74: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 75: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 76: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 77: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 78: Empty ingredient name, skipping
+2026-01-19 21:58:26,146 - WARNING - Row 79: Empty ingredient name, skipping
+2026-01-19 21:58:26,147 - WARNING - Row 80: Empty ingredient name, skipping
+2026-01-19 21:58:26,147 - WARNING - Row 81: Empty ingredient name, skipping
+2026-01-19 21:58:26,147 - WARNING - Row 82: Empty ingredient name, skipping
+2026-01-19 21:58:26,147 - WARNING - Row 83: Empty ingredient name, skipping
+2026-01-19 21:58:26,147 - WARNING - Row 84: Empty ingredient name, skipping
+2026-01-19 21:58:26,147 - WARNING - Row 85: Empty ingredient name, skipping
+2026-01-19 21:58:26,147 - WARNING - Row 86: Empty ingredient name, skipping
+2026-01-19 21:58:26,147 - WARNING - Row 87: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 88: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 89: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 90: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 91: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 92: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 93: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 94: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 95: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 96: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 97: Empty ingredient name, skipping
+2026-01-19 21:58:26,148 - WARNING - Row 98: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 99: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 100: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 101: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 102: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 103: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 104: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 105: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 106: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 107: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 108: Empty ingredient name, skipping
+2026-01-19 21:58:26,149 - WARNING - Row 109: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 110: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 111: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 112: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 113: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 114: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 115: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 116: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 117: Empty ingredient name, skipping
+2026-01-19 21:58:26,150 - WARNING - Row 118: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 119: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 120: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 121: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 122: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 123: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 124: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 125: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 126: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 127: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 128: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 129: Empty ingredient name, skipping
+2026-01-19 21:58:26,151 - WARNING - Row 130: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 131: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 132: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 133: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 134: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 135: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 136: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 137: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 138: Empty ingredient name, skipping
+2026-01-19 21:58:26,152 - WARNING - Row 139: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 140: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 141: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 142: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 143: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 144: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 145: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 146: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 147: Empty ingredient name, skipping
+2026-01-19 21:58:26,153 - WARNING - Row 148: Empty ingredient name, skipping
+2026-01-19 21:58:26,154 - WARNING - Row 149: Empty ingredient name, skipping
+2026-01-19 21:58:26,154 - WARNING - Row 150: Empty ingredient name, skipping
+2026-01-19 21:58:26,154 - WARNING - Row 151: Empty ingredient name, skipping
+2026-01-19 21:58:26,154 - WARNING - Row 152: Empty ingredient name, skipping
+2026-01-19 21:58:26,154 - WARNING - Row 153: Empty ingredient name, skipping
+2026-01-19 21:58:26,154 - WARNING - Row 154: Empty ingredient name, skipping
+2026-01-19 21:58:26,154 - WARNING - Row 155: Empty ingredient name, skipping
+2026-01-19 21:58:26,154 - WARNING - Row 156: Empty ingredient name, skipping
+2026-01-19 21:58:26,155 - WARNING - Row 157: Empty ingredient name, skipping
+2026-01-19 21:58:26,155 - WARNING - Row 158: Empty ingredient name, skipping
+2026-01-19 21:58:26,155 - WARNING - Row 159: Empty ingredient name, skipping
+2026-01-19 21:58:26,155 - WARNING - Row 160: Empty ingredient name, skipping
+2026-01-19 21:58:26,155 - WARNING - Row 161: Empty ingredient name, skipping
+2026-01-19 21:58:26,155 - WARNING - Row 162: Empty ingredient name, skipping
+2026-01-19 21:58:26,155 - WARNING - Row 163: Empty ingredient name, skipping
+2026-01-19 21:58:26,156 - WARNING - Row 164: Empty ingredient name, skipping
+2026-01-19 21:58:26,156 - WARNING - Row 165: Empty ingredient name, skipping
+2026-01-19 21:58:26,156 - WARNING - Row 166: Empty ingredient name, skipping
+2026-01-19 21:58:26,156 - WARNING - Row 167: Empty ingredient name, skipping
+2026-01-19 21:58:26,156 - WARNING - Row 168: Empty ingredient name, skipping
+2026-01-19 21:58:26,156 - WARNING - Row 169: Empty ingredient name, skipping
+2026-01-19 21:58:26,156 - WARNING - Row 170: Empty ingredient name, skipping
+2026-01-19 21:58:26,156 - WARNING - Row 171: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 172: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 173: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 174: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 175: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 176: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 177: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 178: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 179: Empty ingredient name, skipping
+2026-01-19 21:58:26,157 - WARNING - Row 180: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 181: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 182: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 183: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 184: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 185: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 186: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 187: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 188: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 189: Empty ingredient name, skipping
+2026-01-19 21:58:26,158 - WARNING - Row 190: Empty ingredient name, skipping
+2026-01-19 21:58:26,159 - WARNING - Row 191: Empty ingredient name, skipping
+2026-01-19 21:58:26,159 - WARNING - Row 192: Empty ingredient name, skipping
+2026-01-19 21:58:26,159 - WARNING - Row 193: Empty ingredient name, skipping
+2026-01-19 21:58:26,159 - WARNING - Row 194: Empty ingredient name, skipping
+2026-01-19 21:58:26,159 - WARNING - Row 195: Empty ingredient name, skipping
+2026-01-19 21:58:26,159 - WARNING - Row 196: Empty ingredient name, skipping
+2026-01-19 21:58:26,159 - WARNING - Row 197: Empty ingredient name, skipping
+2026-01-19 21:58:26,160 - WARNING - Row 198: Empty ingredient name, skipping
+2026-01-19 21:58:26,160 - WARNING - Row 199: Empty ingredient name, skipping
+2026-01-19 21:58:26,160 - WARNING - Row 200: Empty ingredient name, skipping
+2026-01-19 21:58:26,160 - WARNING - Row 201: Empty ingredient name, skipping
+2026-01-19 21:58:26,160 - WARNING - Row 202: Empty ingredient name, skipping
+2026-01-19 21:58:26,160 - WARNING - Row 203: Empty ingredient name, skipping
+2026-01-19 21:58:26,160 - WARNING - Row 204: Empty ingredient name, skipping
+2026-01-19 21:58:26,161 - WARNING - Row 205: Empty ingredient name, skipping
+2026-01-19 21:58:26,161 - WARNING - Row 206: Empty ingredient name, skipping
+2026-01-19 21:58:26,161 - WARNING - Row 207: Empty ingredient name, skipping
+2026-01-19 21:58:26,161 - WARNING - Row 208: Empty ingredient name, skipping
+2026-01-19 21:58:26,161 - WARNING - Row 209: Empty ingredient name, skipping
+2026-01-19 21:58:26,161 - WARNING - Row 210: Empty ingredient name, skipping
+2026-01-19 21:58:26,161 - WARNING - Row 211: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 212: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 213: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 214: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 215: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 216: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 217: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 218: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 219: Empty ingredient name, skipping
+2026-01-19 21:58:26,162 - WARNING - Row 220: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 221: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 222: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 223: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 224: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 225: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 226: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 227: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 228: Empty ingredient name, skipping
+2026-01-19 21:58:26,163 - WARNING - Row 229: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 230: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 231: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 232: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 233: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 234: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 235: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 236: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 237: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 238: Empty ingredient name, skipping
+2026-01-19 21:58:26,164 - WARNING - Row 239: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 240: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 241: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 242: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 243: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 244: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 245: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 246: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 247: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - WARNING - Row 248: Empty ingredient name, skipping
+2026-01-19 21:58:26,165 - INFO - Successfully processed 248 ingredients
+2026-01-19 22:02:24,289 - INFO - Database schema created/verified at ingredients.db
+2026-01-19 22:02:24,291 - INFO - First line of CSV: 'Banana'
+2026-01-19 22:02:24,292 - INFO - Second line of CSV: 'Orange'
+2026-01-19 22:02:24,292 - INFO - CSV appears to be a simple list format (one ingredient per line)
+2026-01-19 22:02:24,292 - INFO - Parsed 249 ingredients from simple list format
+2026-01-19 22:02:24,292 - INFO - Detected CSV columns: ['id', 'ingredient', 'category', 'subcategory']
+2026-01-19 22:02:24,292 - INFO - Sample first row: {'id': '1', 'ingredient': 'Banana', 'category': '', 'subcategory': ''}
+2026-01-19 22:02:24,293 - INFO - Found 249 rows in CSV file
+2026-01-19 22:02:24,293 - INFO - Processing 1/249: Banana
+2026-01-19 22:02:24,293 - INFO - Searching for: Banana
+2026-01-19 22:02:25,900 - INFO - Found: BANANA (FDC ID: 2012128)
+2026-01-19 22:02:27,038 - ERROR - SQL OperationalError inserting 'Banana': 44 values for 45 columns
+2026-01-19 22:02:27,038 - ERROR - Values count: 45, Expected: 45
+2026-01-19 22:02:27,038 - ERROR - Values: ('1', 'Banana', '', '', 2012128, 'Branded', 'BANANA', 'Wonder Natural Foods Corp', '016459200441', '2 Tbsp')... (first 10 shown)
+2026-01-19 22:02:27,043 - INFO - Processing 2/249: Orange
+2026-01-19 22:02:27,043 - INFO - Searching for: Orange
+2026-01-19 22:02:28,480 - INFO - Found: ORANGE (FDC ID: 1864680)
+2026-01-19 22:02:29,590 - ERROR - SQL OperationalError inserting 'Orange': 44 values for 45 columns
+2026-01-19 22:02:29,591 - ERROR - Values count: 45, Expected: 45
+2026-01-19 22:02:29,591 - ERROR - Values: ('2', 'Orange', '', '', 1864680, 'Branded', 'ORANGE', 'Ahold USA, Inc. ', '688267072246', '0.125 PACKAGE, MAKES 1/2 CUP')... (first 10 shown)
+2026-01-19 22:02:29,593 - INFO - Processing 3/249: Lemon
+2026-01-19 22:02:29,593 - INFO - Searching for: Lemon
+2026-01-19 22:02:31,053 - INFO - Found: LEMON (FDC ID: 2038425)
+2026-01-19 22:02:32,413 - ERROR - SQL OperationalError inserting 'Lemon': 44 values for 45 columns
+2026-01-19 22:02:32,413 - ERROR - Values count: 45, Expected: 45
+2026-01-19 22:02:32,413 - ERROR - Values: ('3', 'Lemon', '', '', 2038425, 'Branded', 'LEMON', 'T. Marzetti Company', '070200550681', '2 Tbsp')... (first 10 shown)
+2026-01-19 22:02:32,416 - INFO - Processing 4/249: Lime
+2026-01-19 22:02:32,416 - INFO - Searching for: Lime
+2026-01-19 22:02:33,824 - INFO - Found: Limes, raw (FDC ID: 168155)
+2026-01-19 22:02:35,049 - ERROR - SQL OperationalError inserting 'Lime': 44 values for 45 columns
+2026-01-19 22:02:35,049 - ERROR - Values count: 45, Expected: 45
+2026-01-19 22:02:35,051 - ERROR - Values: ('4', 'Lime', '', '', 168155, 'SR Legacy', 'Limes, raw', None, None, None)... (first 10 shown)
+2026-01-19 22:02:35,053 - INFO - Processing 5/249: Grapefruit
+2026-01-19 22:02:35,053 - INFO - Searching for: Grapefruit
+2026-01-19 22:02:37,429 - INFO - Found: GRAPEFRUIT (FDC ID: 2156170)
+2026-01-19 22:02:38,661 - ERROR - SQL OperationalError inserting 'Grapefruit': 44 values for 45 columns
+2026-01-19 22:02:38,661 - ERROR - Values count: 45, Expected: 45
+2026-01-19 22:02:38,661 - ERROR - Values: ('5', 'Grapefruit', '', '', 2156170, 'Branded', 'GRAPEFRUIT', 'Wegmans Food Markets, Inc. ', '077890024911', '1 GRAPEFRUIT')... (first 10 shown)
+2026-01-19 22:02:38,664 - INFO - Processing 6/249: Strawberry
+2026-01-19 22:02:38,664 - INFO - Searching for: Strawberry
+2026-01-19 22:02:39,843 - INFO - Found: STRAWBERRY (FDC ID: 2388788)
+2026-01-19 22:02:40,970 - ERROR - SQL OperationalError inserting 'Strawberry': 44 values for 45 columns
+2026-01-19 22:02:40,970 - ERROR - Values count: 45, Expected: 45
+2026-01-19 22:02:40,971 - ERROR - Values: ('6', 'Strawberry', '', '', 2388788, 'Branded', 'STRAWBERRY', 'Fox Point Sportswear, Inc.', '609456366731', '1/4 CUP')... (first 10 shown)
+2026-01-19 22:02:40,973 - INFO - Processing 7/249: Blueberry
+2026-01-19 22:02:40,973 - INFO - Searching for: Blueberry
+2026-01-19 22:06:43,807 - INFO - Database schema created/verified at ingredients.db
+2026-01-19 22:06:43,809 - INFO - First line of CSV: 'Banana'
+2026-01-19 22:06:43,809 - INFO - Second line of CSV: 'Orange'
+2026-01-19 22:06:43,809 - INFO - CSV appears to be a simple list format (one ingredient per line)
+2026-01-19 22:06:43,809 - INFO - Parsed 249 ingredients from simple list format
+2026-01-19 22:06:43,809 - INFO - Detected CSV columns: ['id', 'ingredient', 'category', 'subcategory']
+2026-01-19 22:06:43,809 - INFO - Sample first row: {'id': '1', 'ingredient': 'Banana', 'category': '', 'subcategory': ''}
+2026-01-19 22:06:43,809 - INFO - Found 249 rows in CSV file
+2026-01-19 22:06:43,809 - INFO - Processing 1/249: Banana
+2026-01-19 22:06:43,809 - INFO - Searching for: Banana
+2026-01-19 22:06:45,380 - INFO - Found: BANANA (FDC ID: 2012128)
+2026-01-19 22:06:46,504 - ERROR - [FAILED] Failed to insert ingredient 'Banana' (row 1): UnboundLocalError - cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:46,505 - ERROR - Exception details: UnboundLocalError("cannot access local variable 'column_names' where it is not associated with a value")
+Traceback (most recent call last):
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 622, in process_csv_file
+    insert_ingredient(conn, row, food_data)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 419, in insert_ingredient
+    for idx, (col_name, val) in enumerate(zip(column_names, values_tuple)):
+                                              ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:46,507 - INFO - Processing 2/249: Orange
+2026-01-19 22:06:46,507 - INFO - Searching for: Orange
+2026-01-19 22:06:47,852 - INFO - Found: ORANGE (FDC ID: 1864680)
+2026-01-19 22:06:48,983 - ERROR - [FAILED] Failed to insert ingredient 'Orange' (row 2): UnboundLocalError - cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:48,983 - ERROR - Exception details: UnboundLocalError("cannot access local variable 'column_names' where it is not associated with a value")
+Traceback (most recent call last):
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 622, in process_csv_file
+    insert_ingredient(conn, row, food_data)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 419, in insert_ingredient
+    for idx, (col_name, val) in enumerate(zip(column_names, values_tuple)):
+                                              ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:48,984 - INFO - Processing 3/249: Lemon
+2026-01-19 22:06:48,984 - INFO - Searching for: Lemon
+2026-01-19 22:06:50,424 - INFO - Found: LEMON (FDC ID: 2038425)
+2026-01-19 22:06:51,570 - ERROR - [FAILED] Failed to insert ingredient 'Lemon' (row 3): UnboundLocalError - cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:51,570 - ERROR - Exception details: UnboundLocalError("cannot access local variable 'column_names' where it is not associated with a value")
+Traceback (most recent call last):
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 622, in process_csv_file
+    insert_ingredient(conn, row, food_data)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 419, in insert_ingredient
+    for idx, (col_name, val) in enumerate(zip(column_names, values_tuple)):
+                                              ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:51,572 - INFO - Processing 4/249: Lime
+2026-01-19 22:06:51,572 - INFO - Searching for: Lime
+2026-01-19 22:06:53,026 - INFO - Found: Limes, raw (FDC ID: 168155)
+2026-01-19 22:06:54,321 - ERROR - [FAILED] Failed to insert ingredient 'Lime' (row 4): UnboundLocalError - cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:54,321 - ERROR - Exception details: UnboundLocalError("cannot access local variable 'column_names' where it is not associated with a value")
+Traceback (most recent call last):
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 622, in process_csv_file
+    insert_ingredient(conn, row, food_data)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 419, in insert_ingredient
+    for idx, (col_name, val) in enumerate(zip(column_names, values_tuple)):
+                                              ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:54,322 - INFO - Processing 5/249: Grapefruit
+2026-01-19 22:06:54,322 - INFO - Searching for: Grapefruit
+2026-01-19 22:06:55,673 - INFO - Found: GRAPEFRUIT (FDC ID: 2156170)
+2026-01-19 22:06:57,108 - ERROR - [FAILED] Failed to insert ingredient 'Grapefruit' (row 5): UnboundLocalError - cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:57,108 - ERROR - Exception details: UnboundLocalError("cannot access local variable 'column_names' where it is not associated with a value")
+Traceback (most recent call last):
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 622, in process_csv_file
+    insert_ingredient(conn, row, food_data)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 419, in insert_ingredient
+    for idx, (col_name, val) in enumerate(zip(column_names, values_tuple)):
+                                              ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:57,109 - INFO - Processing 6/249: Strawberry
+2026-01-19 22:06:57,109 - INFO - Searching for: Strawberry
+2026-01-19 22:06:58,511 - INFO - Found: STRAWBERRY (FDC ID: 2388788)
+2026-01-19 22:06:59,675 - ERROR - [FAILED] Failed to insert ingredient 'Strawberry' (row 6): UnboundLocalError - cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:59,676 - ERROR - Exception details: UnboundLocalError("cannot access local variable 'column_names' where it is not associated with a value")
+Traceback (most recent call last):
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 622, in process_csv_file
+    insert_ingredient(conn, row, food_data)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 419, in insert_ingredient
+    for idx, (col_name, val) in enumerate(zip(column_names, values_tuple)):
+                                              ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:06:59,677 - INFO - Processing 7/249: Blueberry
+2026-01-19 22:06:59,677 - INFO - Searching for: Blueberry
+2026-01-19 22:07:01,096 - INFO - Found: BLUEBERRY (FDC ID: 2116605)
+2026-01-19 22:07:02,483 - ERROR - [FAILED] Failed to insert ingredient 'Blueberry' (row 7): UnboundLocalError - cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:07:02,483 - ERROR - Exception details: UnboundLocalError("cannot access local variable 'column_names' where it is not associated with a value")
+Traceback (most recent call last):
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 622, in process_csv_file
+    insert_ingredient(conn, row, food_data)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\recipe scraper\ingredient_enricher.py", line 419, in insert_ingredient
+    for idx, (col_name, val) in enumerate(zip(column_names, values_tuple)):
+                                              ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'column_names' where it is not associated with a value
+2026-01-19 22:07:02,485 - INFO - Processing 8/249: Raspberry
+2026-01-19 22:07:02,485 - INFO - Searching for: Raspberry
+2026-01-19 22:07:03,914 - INFO - Found: RASPBERRY (FDC ID: 2163278)
+2026-01-19 22:10:29,566 - INFO - Database schema created/verified at ingredients.db
+2026-01-19 22:10:29,567 - INFO - First line of CSV: 'Banana'
+2026-01-19 22:10:29,567 - INFO - Second line of CSV: 'Orange'
+2026-01-19 22:10:29,567 - INFO - CSV appears to be a simple list format (one ingredient per line)
+2026-01-19 22:10:29,567 - INFO - Parsed 249 ingredients from simple list format
+2026-01-19 22:10:29,567 - INFO - Detected CSV columns: ['id', 'ingredient', 'category', 'subcategory']
+2026-01-19 22:10:29,567 - INFO - Sample first row: {'id': '1', 'ingredient': 'Banana', 'category': '', 'subcategory': ''}
+2026-01-19 22:10:29,568 - INFO - Found 249 rows in CSV file
+2026-01-19 22:10:29,568 - INFO - Processing 1/249: Banana
+2026-01-19 22:10:29,568 - INFO - Searching for: Banana
+2026-01-19 22:10:31,240 - INFO - Found: BANANA (FDC ID: 2012128)
+2026-01-19 22:10:32,325 - INFO - Preparing to insert ingredient 'Banana' (ID: 1)
+2026-01-19 22:10:32,332 - INFO - [SUCCESS] Processed 1/249: Banana
+2026-01-19 22:10:32,833 - INFO - Processing 2/249: Orange
+2026-01-19 22:10:32,833 - INFO - Searching for: Orange
+2026-01-19 22:10:34,944 - INFO - Found: ORANGE (FDC ID: 1864680)
+2026-01-19 22:10:36,294 - INFO - Preparing to insert ingredient 'Orange' (ID: 2)
+2026-01-19 22:10:36,298 - INFO - [SUCCESS] Processed 2/249: Orange
+2026-01-19 22:10:36,799 - INFO - Processing 3/249: Lemon
+2026-01-19 22:10:36,799 - INFO - Searching for: Lemon
+2026-01-19 22:10:38,243 - INFO - Found: LEMON (FDC ID: 2038425)
+2026-01-19 22:10:39,380 - INFO - Preparing to insert ingredient 'Lemon' (ID: 3)
+2026-01-19 22:10:39,384 - INFO - [SUCCESS] Processed 3/249: Lemon
+2026-01-19 22:10:39,885 - INFO - Processing 4/249: Lime
+2026-01-19 22:10:39,885 - INFO - Searching for: Lime
+2026-01-19 22:10:41,184 - INFO - Found: Limes, raw (FDC ID: 168155)
+2026-01-19 22:10:42,325 - INFO - Preparing to insert ingredient 'Lime' (ID: 4)
+2026-01-19 22:10:42,330 - INFO - [SUCCESS] Processed 4/249: Lime
+2026-01-19 22:10:42,831 - INFO - Processing 5/249: Grapefruit
+2026-01-19 22:10:42,831 - INFO - Searching for: Grapefruit
+2026-01-19 22:10:44,486 - INFO - Found: GRAPEFRUIT (FDC ID: 2156170)
+2026-01-19 22:10:45,614 - INFO - Preparing to insert ingredient 'Grapefruit' (ID: 5)
+2026-01-19 22:10:45,618 - INFO - [SUCCESS] Processed 5/249: Grapefruit
+2026-01-19 22:10:46,119 - INFO - Processing 6/249: Strawberry
+2026-01-19 22:10:46,119 - INFO - Searching for: Strawberry
+2026-01-19 22:10:47,349 - INFO - Found: STRAWBERRY (FDC ID: 2388788)
+2026-01-19 22:10:48,748 - INFO - Preparing to insert ingredient 'Strawberry' (ID: 6)
+2026-01-19 22:10:48,752 - INFO - [SUCCESS] Processed 6/249: Strawberry
+2026-01-19 22:10:49,252 - INFO - Processing 7/249: Blueberry
+2026-01-19 22:10:49,252 - INFO - Searching for: Blueberry
+2026-01-19 22:10:50,627 - INFO - Found: BLUEBERRY (FDC ID: 2116605)
+2026-01-19 22:10:51,736 - INFO - Preparing to insert ingredient 'Blueberry' (ID: 7)
+2026-01-19 22:10:51,740 - INFO - [SUCCESS] Processed 7/249: Blueberry
+2026-01-19 22:10:52,241 - INFO - Processing 8/249: Raspberry
+2026-01-19 22:10:52,241 - INFO - Searching for: Raspberry
+2026-01-19 22:10:53,675 - INFO - Found: RASPBERRY (FDC ID: 2163278)
+2026-01-19 22:10:54,868 - INFO - Preparing to insert ingredient 'Raspberry' (ID: 8)
+2026-01-19 22:10:54,874 - INFO - [SUCCESS] Processed 8/249: Raspberry
+2026-01-19 22:15:16,840 - INFO - Database schema created/verified at ingredients.db
+2026-01-19 22:15:16,841 - INFO - First line of CSV: 'Banana'
+2026-01-19 22:15:16,841 - INFO - Second line of CSV: 'Orange'
+2026-01-19 22:15:16,841 - INFO - CSV appears to be a simple list format (one ingredient per line)
+2026-01-19 22:15:16,841 - INFO - Parsed 249 ingredients from simple list format
+2026-01-19 22:15:16,841 - INFO - Detected CSV columns: ['id', 'ingredient', 'category', 'subcategory']
+2026-01-19 22:15:16,841 - INFO - Sample first row: {'id': '1', 'ingredient': 'Banana', 'category': '', 'subcategory': ''}
+2026-01-19 22:15:16,841 - INFO - Found 249 rows in CSV file
+2026-01-19 22:15:16,842 - INFO - Processing 1/249: Banana
+2026-01-19 22:15:16,842 - INFO - Searching for: Banana
+2026-01-19 22:15:18,237 - INFO - Found: BANANA (FDC ID: 2012128)
+2026-01-19 22:15:19,352 - INFO - Preparing to insert ingredient 'Banana' (ID: 1)
+2026-01-19 22:15:19,354 - INFO - Ingredient 'Banana' already exists with ID 1, updating...
+2026-01-19 22:15:19,358 - INFO - Updated ingredient 'Banana' (ID: 1)
+2026-01-19 22:15:19,358 - INFO - [SUCCESS] Processed 1/249: Banana
+2026-01-19 22:15:19,858 - INFO - Processing 2/249: Orange
+2026-01-19 22:15:19,859 - INFO - Searching for: Orange
+2026-01-19 22:15:21,299 - INFO - Found: ORANGE (FDC ID: 1864680)
+2026-01-19 22:15:22,390 - INFO - Preparing to insert ingredient 'Orange' (ID: 2)
+2026-01-19 22:15:22,390 - INFO - Ingredient 'Orange' already exists with ID 2, updating...
+2026-01-19 22:15:22,402 - INFO - Updated ingredient 'Orange' (ID: 2)
+2026-01-19 22:15:22,403 - INFO - [SUCCESS] Processed 2/249: Orange
+2026-01-19 22:15:22,903 - INFO - Processing 3/249: Lemon
+2026-01-19 22:15:22,903 - INFO - Searching for: Lemon
+2026-01-19 22:15:24,305 - INFO - Found: LEMON (FDC ID: 2038425)
+2026-01-19 22:15:25,654 - INFO - Preparing to insert ingredient 'Lemon' (ID: 3)
+2026-01-19 22:15:25,655 - INFO - Ingredient 'Lemon' already exists with ID 3, updating...
+2026-01-19 22:15:25,659 - INFO - Updated ingredient 'Lemon' (ID: 3)
+2026-01-19 22:15:25,659 - INFO - [SUCCESS] Processed 3/249: Lemon
+2026-01-19 22:15:26,160 - INFO - Processing 4/249: Lime
+2026-01-19 22:15:26,160 - INFO - Searching for: Lime
+2026-01-19 22:15:27,589 - INFO - Found: Limes, raw (FDC ID: 168155)
+2026-01-19 22:15:28,868 - INFO - Preparing to insert ingredient 'Lime' (ID: 4)
+2026-01-19 22:15:28,868 - INFO - Ingredient 'Lime' already exists with ID 4, updating...
+2026-01-19 22:15:28,872 - INFO - Updated ingredient 'Lime' (ID: 4)
+2026-01-19 22:15:28,872 - INFO - [SUCCESS] Processed 4/249: Lime
+2026-01-19 22:15:29,372 - INFO - Processing 5/249: Grapefruit
+2026-01-19 22:15:29,373 - INFO - Searching for: Grapefruit
+2026-01-19 22:15:30,750 - INFO - Found: GRAPEFRUIT (FDC ID: 2156170)
+2026-01-19 22:15:31,851 - INFO - Preparing to insert ingredient 'Grapefruit' (ID: 5)
+2026-01-19 22:15:31,851 - INFO - Ingredient 'Grapefruit' already exists with ID 5, updating...
+2026-01-19 22:15:31,855 - INFO - Updated ingredient 'Grapefruit' (ID: 5)
+2026-01-19 22:15:31,855 - INFO - [SUCCESS] Processed 5/249: Grapefruit
+2026-01-19 22:15:32,356 - INFO - Processing 6/249: Strawberry
+2026-01-19 22:15:32,356 - INFO - Searching for: Strawberry
+2026-01-19 22:15:34,008 - INFO - Found: STRAWBERRY (FDC ID: 2388788)
+2026-01-19 22:15:35,475 - INFO - Preparing to insert ingredient 'Strawberry' (ID: 6)
+2026-01-19 22:15:35,475 - INFO - Ingredient 'Strawberry' already exists with ID 6, updating...
+2026-01-19 22:15:35,480 - INFO - Updated ingredient 'Strawberry' (ID: 6)
+2026-01-19 22:15:35,480 - INFO - [SUCCESS] Processed 6/249: Strawberry
+2026-01-19 22:15:35,980 - INFO - Processing 7/249: Blueberry
+2026-01-19 22:15:35,980 - INFO - Searching for: Blueberry
+2026-01-19 22:15:37,414 - INFO - Found: BLUEBERRY (FDC ID: 2116605)
+2026-01-19 22:15:38,772 - INFO - Preparing to insert ingredient 'Blueberry' (ID: 7)
+2026-01-19 22:15:38,773 - INFO - Ingredient 'Blueberry' already exists with ID 7, updating...
+2026-01-19 22:15:38,777 - INFO - Updated ingredient 'Blueberry' (ID: 7)
+2026-01-19 22:15:38,777 - INFO - [SUCCESS] Processed 7/249: Blueberry
+2026-01-19 22:15:39,277 - INFO - Processing 8/249: Raspberry
+2026-01-19 22:15:39,278 - INFO - Searching for: Raspberry
+2026-01-19 22:15:40,984 - INFO - Found: RASPBERRY (FDC ID: 2163278)
+2026-01-19 22:15:42,109 - INFO - Preparing to insert ingredient 'Raspberry' (ID: 8)
+2026-01-19 22:15:42,110 - INFO - Ingredient 'Raspberry' already exists with ID 8, updating...
+2026-01-19 22:15:42,114 - INFO - Updated ingredient 'Raspberry' (ID: 8)
+2026-01-19 22:15:42,115 - INFO - [SUCCESS] Processed 8/249: Raspberry
+2026-01-19 22:15:42,615 - INFO - Processing 9/249: Blackberry
+2026-01-19 22:15:42,615 - INFO - Searching for: Blackberry
+2026-01-19 22:15:44,267 - INFO - Found: BLACKBERRY (FDC ID: 454155)
+2026-01-19 22:15:45,405 - INFO - Preparing to insert ingredient 'Blackberry' (ID: 9)
+2026-01-19 22:15:45,410 - INFO - Inserted new ingredient 'Blackberry' (ID: 9)
+2026-01-19 22:15:45,410 - INFO - [SUCCESS] Processed 9/249: Blackberry
+2026-01-19 22:15:45,910 - INFO - Processing 10/249: Grape
+2026-01-19 22:15:45,911 - INFO - Searching for: Grape
+2026-01-19 22:15:47,532 - INFO - Found: GRAPE (FDC ID: 2085879)
+2026-01-19 22:15:48,901 - INFO - Preparing to insert ingredient 'Grape' (ID: 10)
+2026-01-19 22:15:48,904 - INFO - Inserted new ingredient 'Grape' (ID: 10)
+2026-01-19 22:15:48,904 - INFO - [SUCCESS] Processed 10/249: Grape
+2026-01-19 22:15:49,405 - INFO - Processing 11/249: Cherry
+2026-01-19 22:15:49,405 - INFO - Searching for: Cherry
+2026-01-19 22:15:50,756 - INFO - Found: CHERRY (FDC ID: 2135570)
+2026-01-19 22:15:51,914 - INFO - Preparing to insert ingredient 'Cherry' (ID: 11)
+2026-01-19 22:15:51,918 - INFO - Inserted new ingredient 'Cherry' (ID: 11)
+2026-01-19 22:15:51,918 - INFO - [SUCCESS] Processed 11/249: Cherry
+2026-01-19 22:15:52,418 - INFO - Processing 12/249: Peach
+2026-01-19 22:15:52,419 - INFO - Searching for: Peach
+2026-01-19 22:15:53,857 - INFO - Found: PEACH (FDC ID: 2053614)
+2026-01-19 22:15:55,096 - INFO - Preparing to insert ingredient 'Peach' (ID: 12)
+2026-01-19 22:15:55,100 - INFO - Inserted new ingredient 'Peach' (ID: 12)
+2026-01-19 22:15:55,100 - INFO - [SUCCESS] Processed 12/249: Peach

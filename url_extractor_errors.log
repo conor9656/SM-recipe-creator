@@ -1,0 +1,139 @@
+2026-01-09 14:44:27,518 - INFO - Attempting to fetch URL: https://www.allrecipes.com/recipes/455/everyday-cooking/more-meal-ideas/30-minute-meals/
+2026-01-09 14:44:27,845 - INFO - HTTP Status Code: 200
+2026-01-09 14:44:27,963 - INFO - Raw response size: 70795 bytes
+2026-01-09 14:44:27,963 - INFO - Content-Encoding: gzip
+2026-01-09 14:44:27,963 - INFO - Decompressing gzip content...
+2026-01-09 14:44:27,966 - INFO - Successfully fetched HTML (length: 520176 characters)
+2026-01-09 14:44:27,966 - INFO - Using pattern: https://www\.allrecipes\.com/recipe/\d+/.+?/
+2026-01-09 14:44:28,067 - INFO - Found 308 total links on the page
+2026-01-09 14:44:28,068 - INFO - Found 57 recipe URLs matching the pattern
+2026-01-09 14:44:28,069 - INFO - Saved 57 URLs to 30-minute-meals-recipe-urls.txt
+2026-01-14 22:36:14,909 - INFO - Attempting to fetch URL: https://www.bbcgoodfood.com/recipes/collection/budget-slow-cooker-recipes?page=2
+2026-01-14 22:36:15,060 - INFO - HTTP Status Code: 200
+2026-01-14 22:36:15,077 - INFO - Raw response size: 95027 bytes
+2026-01-14 22:36:15,077 - INFO - Content-Encoding: gzip
+2026-01-14 22:36:15,077 - INFO - Decompressing gzip content...
+2026-01-14 22:36:15,082 - INFO - Successfully fetched HTML (length: 714889 characters)
+2026-01-14 22:36:15,082 - INFO - Using pattern: https://www\.bbcgoodfood\.com/recipes/.+?
+2026-01-14 22:36:15,153 - INFO - Found 242 total links on the page
+2026-01-14 22:36:15,153 - INFO - Found 91 recipe URLs matching the pattern
+2026-01-14 22:36:15,154 - INFO - Saved 91 URLs to bbcgoodfood_slow_cooker_recipes.txt
+2026-01-14 22:39:56,945 - INFO - Attempting to fetch URL: https://www.bbcgoodfood.com/recipes/collection/budget-slow-cooker-recipes?page=2
+2026-01-14 22:39:57,038 - INFO - HTTP Status Code: 200
+2026-01-14 22:39:57,054 - INFO - Raw response size: 95032 bytes
+2026-01-14 22:39:57,054 - INFO - Content-Encoding: gzip
+2026-01-14 22:39:57,055 - INFO - Decompressing gzip content...
+2026-01-14 22:39:57,057 - INFO - Successfully fetched HTML (length: 714889 characters)
+2026-01-14 22:39:57,057 - INFO - Using pattern: https://www\.bbcgoodfood\.com/recipes/.+?
+2026-01-14 22:39:57,130 - INFO - Found 242 total links on the page
+2026-01-14 22:39:57,131 - INFO - Found 91 recipe URLs matching the pattern
+2026-01-14 22:39:57,132 - INFO - Saved 91 URLs to bbcgoodfood_slow_cooker_recipes_2.txt
+2026-01-14 22:43:57,654 - INFO - Attempting to fetch URL: https://www.bbcgoodfood.com/recipes/collection/high-protein-recipes
+2026-01-14 22:43:57,771 - INFO - HTTP Status Code: 200
+2026-01-14 22:43:57,789 - INFO - Raw response size: 97647 bytes
+2026-01-14 22:43:57,789 - INFO - Content-Encoding: gzip
+2026-01-14 22:43:57,789 - INFO - Decompressing gzip content...
+2026-01-14 22:43:57,793 - INFO - Successfully fetched HTML (length: 726384 characters)
+2026-01-14 22:43:57,793 - INFO - Using pattern: Y
+2026-01-14 22:43:57,864 - INFO - Found 242 total links on the page
+2026-01-14 22:43:57,864 - INFO - Found 0 recipe URLs matching the pattern
+2026-01-14 22:47:52,643 - INFO - Attempting to fetch URL: https://www.bbcgoodfood.com/recipes/collection/high-protein-recipes
+2026-01-14 22:47:52,743 - INFO - HTTP Status Code: 200
+2026-01-14 22:47:52,759 - INFO - Raw response size: 97647 bytes
+2026-01-14 22:47:52,759 - INFO - Content-Encoding: gzip
+2026-01-14 22:47:52,760 - INFO - Decompressing gzip content...
+2026-01-14 22:47:52,762 - INFO - Successfully fetched HTML (length: 726384 characters)
+2026-01-14 22:47:52,762 - INFO - Using pattern: https?://(www\.)?bbcgoodfood\.com/recipes/(?!collection)[^/?#]+
+2026-01-14 22:47:52,835 - INFO - Found 242 total links on the page
+2026-01-14 22:47:52,835 - INFO - Found 54 recipe URLs matching the pattern
+2026-01-14 22:47:52,836 - INFO - Saved 54 URLs to bbcgoodfood_high_protein_recipes.txt
+2026-02-16 17:01:45,194 - INFO - Attempting to fetch URL: https://www.delish.com/cooking/recipe-ideas/g70306671/slow-cooker-chicken-recipes/
+2026-02-16 17:01:45,361 - INFO - HTTP Status Code: 200
+2026-02-16 17:01:45,394 - INFO - Raw response size: 112637 bytes
+2026-02-16 17:01:45,394 - INFO - Content-Encoding: gzip
+2026-02-16 17:01:45,394 - INFO - Decompressing gzip content...
+2026-02-16 17:01:45,398 - INFO - Successfully fetched HTML (length: 668302 characters)
+2026-02-16 17:01:45,398 - INFO - Using pattern: https?://(www\.)?delish\.com/[^/?#]+/[^/?#]+/[^/?#]+/[^/?#]+
+2026-02-16 17:01:45,429 - INFO - Found 165 total links on the page
+2026-02-16 17:01:45,429 - INFO - Found 58 recipe URLs matching the pattern
+2026-02-16 17:01:45,430 - INFO - Saved 58 URLs to slow-cooker-chicken.txt
+2026-02-16 17:11:44,385 - INFO - Attempting to fetch URL: https://www.delish.com/cooking/recipe-ideas/g4374/slow-cooker-beef-recipes/
+2026-02-16 17:11:44,812 - INFO - HTTP Status Code: 200
+2026-02-16 17:11:44,846 - INFO - Raw response size: 116364 bytes
+2026-02-16 17:11:44,846 - INFO - Content-Encoding: gzip
+2026-02-16 17:11:44,847 - INFO - Decompressing gzip content...
+2026-02-16 17:11:44,849 - INFO - Successfully fetched HTML (length: 683852 characters)
+2026-02-16 17:11:44,849 - INFO - Using pattern: https?://(www\.)?delish\.com/[^/?#]+/[^/?#]+/[^/?#]+/[^/?#]+
+2026-02-16 17:11:44,882 - INFO - Found 163 total links on the page
+2026-02-16 17:11:44,882 - INFO - Found 60 recipe URLs matching the pattern
+2026-02-16 17:11:44,883 - INFO - Saved 60 URLs to beef-slowcooker.txt
+2026-03-04 21:05:02,274 - ERROR - Invalid reference URL: Reference URL has no host (e.g. missing https://)
+2026-03-04 21:05:17,173 - INFO - Attempting to fetch URL: https://www.foodforfitness.co.uk/high-protein-recipes/
+2026-03-04 21:05:17,336 - INFO - HTTP Status Code: 200
+2026-03-04 21:05:17,364 - INFO - Raw response size: 182614 bytes
+2026-03-04 21:05:17,364 - INFO - Content-Encoding: br
+2026-03-04 21:05:17,364 - ERROR - Unexpected error occurred: UnicodeDecodeError - 'utf-8' codec can't decode byte 0xfa in position 2: invalid start byte
+2026-03-04 21:05:17,364 - ERROR - Failed to extract URLs: UnicodeDecodeError - 'utf-8' codec can't decode byte 0xfa in position 2: invalid start byte
+2026-03-04 21:05:41,970 - ERROR - Invalid reference URL: Reference URL has no host (e.g. missing https://)
+2026-03-04 21:05:43,623 - INFO - Attempting to fetch URL: https://www.foodforfitness.co.uk/recipes/greek-chicken-tray-bake/
+2026-03-04 21:05:43,757 - INFO - HTTP Status Code: 200
+2026-03-04 21:05:43,781 - INFO - Raw response size: 165877 bytes
+2026-03-04 21:05:43,782 - INFO - Content-Encoding: br
+2026-03-04 21:05:43,782 - ERROR - Unexpected error occurred: UnicodeDecodeError - 'utf-8' codec can't decode byte 0x83 in position 0: invalid start byte
+2026-03-04 21:05:43,782 - ERROR - Failed to extract URLs: UnicodeDecodeError - 'utf-8' codec can't decode byte 0x83 in position 0: invalid start byte
+2026-03-04 21:06:10,964 - INFO - Attempting to fetch URL: https://www.foodforfitness.co.uk/high-protein-recipes/
+2026-03-04 21:06:11,098 - INFO - HTTP Status Code: 200
+2026-03-04 21:06:11,132 - INFO - Raw response size: 182250 bytes
+2026-03-04 21:06:11,132 - INFO - Content-Encoding: br
+2026-03-04 21:06:11,132 - ERROR - Unexpected error occurred: UnicodeDecodeError - 'utf-8' codec can't decode byte 0x83 in position 0: invalid start byte
+2026-03-04 21:06:11,132 - ERROR - Failed to extract URLs: UnicodeDecodeError - 'utf-8' codec can't decode byte 0x83 in position 0: invalid start byte
+2026-03-04 21:12:31,211 - INFO - Attempting to fetch URL: https://www.foodforfitness.co.uk/high-protein-recipes/
+2026-03-04 21:12:31,355 - INFO - HTTP Status Code: 200
+2026-03-04 21:12:31,409 - INFO - Raw response size: 182454 bytes
+2026-03-04 21:12:31,409 - INFO - Content-Encoding: br
+2026-03-04 21:12:31,410 - INFO - Decompressing Brotli content...
+2026-03-04 21:12:31,413 - INFO - Successfully fetched HTML (length: 1064615 characters)
+2026-03-04 21:12:31,413 - INFO - Using pattern: https?://(www\.)?foodforfitness\.co\.uk/[^/?#]+/[^/?#]+
+2026-03-04 21:12:31,502 - INFO - Found 565 total links on the page
+2026-03-04 21:12:31,503 - INFO - Found 123 recipe URLs matching the pattern
+2026-03-04 21:12:31,504 - INFO - Saved 123 URLs to high_protein
+2026-03-04 23:10:03,783 - INFO - Attempting to fetch URL: https://fithealthymacros.com/category/recipes/dinner/
+2026-03-04 23:10:03,956 - INFO - HTTP Status Code: 200
+2026-03-04 23:10:03,962 - INFO - Raw response size: 36016 bytes
+2026-03-04 23:10:03,963 - INFO - Content-Encoding: br
+2026-03-04 23:10:03,963 - INFO - Decompressing Brotli content...
+2026-03-04 23:10:03,967 - INFO - Successfully fetched HTML (length: 255646 characters)
+2026-03-04 23:10:03,968 - INFO - Using pattern: https?://fithealthymacros\.com/[^/?#]+/[^/?#]+
+2026-03-04 23:10:04,001 - INFO - Found 84 total links on the page
+2026-03-04 23:10:04,001 - INFO - Found 35 recipe URLs matching the pattern
+2026-03-04 23:10:04,002 - INFO - Saved 35 URLs to fit_healthy_macros_dinner.txt
+2026-03-04 23:11:12,940 - INFO - Attempting to fetch URL: https://fithealthymacros.com/category/recipes/dinner/#dinner-all+p:6
+2026-03-04 23:11:13,041 - INFO - HTTP Status Code: 200
+2026-03-04 23:11:13,046 - INFO - Raw response size: 35987 bytes
+2026-03-04 23:11:13,047 - INFO - Content-Encoding: br
+2026-03-04 23:11:13,047 - INFO - Decompressing Brotli content...
+2026-03-04 23:11:13,048 - INFO - Successfully fetched HTML (length: 255646 characters)
+2026-03-04 23:11:13,048 - INFO - Using pattern: https?://fithealthymacros\.com/[^/?#]+/[^/?#]+
+2026-03-04 23:11:13,081 - INFO - Found 84 total links on the page
+2026-03-04 23:11:13,082 - INFO - Found 35 recipe URLs matching the pattern
+2026-03-04 23:11:13,082 - INFO - Saved 35 URLs to fit_healthy_macros_dinner.txt
+2026-03-04 23:14:28,135 - INFO - Attempting to fetch URL: https://fithealthymacros.com/category/recipes/dinner/#dinner-all+p:6
+2026-03-04 23:14:28,238 - INFO - HTTP Status Code: 200
+2026-03-04 23:14:28,245 - INFO - Raw response size: 36016 bytes
+2026-03-04 23:14:28,246 - INFO - Content-Encoding: br
+2026-03-04 23:14:28,246 - INFO - Decompressing Brotli content...
+2026-03-04 23:14:28,247 - INFO - Successfully fetched HTML (length: 255646 characters)
+2026-03-04 23:14:28,247 - INFO - Using pattern: https?://fithealthymacros\.com/[^/?#]+/[^/?#]+
+2026-03-04 23:14:28,279 - INFO - Found 84 total links on the page
+2026-03-04 23:14:28,280 - INFO - Found 35 recipe URLs matching the pattern
+2026-03-04 23:14:28,281 - INFO - Saved 35 URLs to fit_healthy_macros_dinner-1.txt
+2026-03-04 23:50:52,379 - INFO - Attempting to fetch URL: https://bakerbynature.com/recipe-index/?_desserts=chocolate
+2026-03-04 23:50:53,199 - INFO - HTTP Status Code: 200
+2026-03-04 23:50:53,212 - INFO - Raw response size: 60161 bytes
+2026-03-04 23:50:53,212 - INFO - Content-Encoding: br
+2026-03-04 23:50:53,212 - INFO - Decompressing Brotli content...
+2026-03-04 23:50:53,217 - INFO - Successfully fetched HTML (length: 268588 characters)
+2026-03-04 23:50:53,217 - INFO - Using pattern: https?://bakerbynature\.com/[^/?#]+
+2026-03-04 23:50:53,235 - INFO - Found 107 total links on the page
+2026-03-04 23:50:53,236 - INFO - Found 52 recipe URLs matching the pattern
+2026-03-04 23:50:53,237 - INFO - Saved 52 URLs to chocolate_puds.txt

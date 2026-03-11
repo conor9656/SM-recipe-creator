@@ -1,0 +1,6 @@
+# Secrets and tokens
+.env
+tiktok_tokens.json
+
+# Nested repo
+recipe-names-repo/
