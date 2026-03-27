@@ -61,3 +61,14 @@ Optional: copy `.env.example` to `.env` and fill secrets (never commit `.env`). 
 3. `python tiktok_recipe_to_tiktok.py` — generates images, pushes GitHub, posts TikTok.
 
 Or run `tiktok_recipe_images.py` alone for images only; use `github_pages_tiktok.py` + `tiktok_post_photo.py` for manual steps.
+
+## Cursor Cloud specific instructions
+
+- The venv lives at `/workspace/.venv`. Activate with `source /workspace/.venv/bin/activate` before running any script.
+- `python3.12-venv` system package is required (installed via `apt`) because the base Ubuntu image doesn't ship it.
+- **No persistent services** to start — all scripts are run-and-done CLI tools. No Docker, databases, or dev servers.
+- **No linter/formatter/test suite** is configured in this repo. Validation is done by running `python3 -m py_compile <script>.py` for syntax and by importing the modules.
+- **Quick smoke test**: `python3 -c "from scraper import scrape_recipe; print(scrape_recipe('https://www.delish.com/cooking/recipe-ideas/a51337/homemade-lasagna-recipe/')['Recipe Title'])"` — should print a recipe title.
+- Some recipe sites (e.g. AllRecipes, BBC Good Food) block headless requests with 403/404. Use URLs from `test.txt` (delish.com) for reliable testing.
+- The main pipeline scripts (`tiktok_recipe_to_tiktok.py`, `tiktok_recipe_images.py`) use interactive `input()` prompts, so they cannot be run non-interactively without patching stdin or mocking. For automated testing, import individual functions instead.
+- All API-dependent features (OpenAI, TikTok, GitHub Pages push) require secrets in `.env`; scraping itself works without any secrets.
