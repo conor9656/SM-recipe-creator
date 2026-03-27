@@ -1,0 +1,62 @@
+To Do:
+
+Foodpal:
+- Create the following features:
+(Decide where to access public profiles - Discovery?)
+	- Public Profiles
+		- Profile Image
+		- Followers
+		- Description
+		- Verified Head Chef (verified blue tick)
+		- Public Recipes
+		- Public Cookbooks
+		- Feature Recipe / Cookbook
+
+	- Cook Books for Public Profiles
+		- Create some AI public profiles and cookbooks
+		- Include AI Recipes
+
+	- Comments for recipes/Cookbooks
+
+	- Share Feature to other profiles
+
+	- Start Marketing Ideas;
+		- Videos
+		- Images
+		- Collabs
+
+- Allow users to upload recipes straight to TikTok (use this as video evidence to have the TikTok api)
+
+MechaDino:
+- Wait until we have API usage back
+- Learn how to create an automated system
+- Try to create the automated system for when the API is back
+- Learn how to create 3D models from artwork
+- Maybe start making artwork
+
+Tiktok Auto Video:
+- Proove use of system (potentially create an api site down the line? Use dad's google nouse to get up rankings)
+- Art videos (+ more) where ai explains every aspect of an image and crops on it in story form
+- Dad's grad rags to riches ai videos - take a blog and short form down into piccies with ai generated images
+- AI generated cook book videos - attach to the database recipe uploader for 2 in one
+
+NFL TIKTOK:
+- Best Budget Free Agent Signings
+- NFL Tiktok filters
+
+Anna's House Plant Idea:
+- Top view house which user can create and place plants around. Colours show if just watered (green) need watering (red) etc
+- Social Media platform where you can see peoples plants, they can post photos of growth and see peoples house and their watering ability. Fun stats about their plant journey
+- One for garden aswell
+
+Skills:
+- Marketing - Learn Marketting
+
+Wavelength impostor game:
+- Everyone gets different caption and has to draw the same number everyone gets
+	- One mode everyone sees the sent caption
+	- Another no one sees the caption but a detective can call once a game and see the captions of everyone or jsut one person
+
+- One person is the controller and chooses the captions for everyone aand the number. THe next round that controller changes until impostor wins or not
+
+- Everyone gets an image and a caption and has to choose a number and everyone reveals their number
