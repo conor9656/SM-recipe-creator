@@ -1,0 +1,69 @@
+
+1000056148.jpg
+1000056149.jpg
+Can you try and type this into a numbered list like written?
+
+Certainly. Some words are difficult to make out, so I've marked a few uncertain sections with [unclear].
+
+Slide 1
+Customer default needs changing to "ask" from "yes" with regards to "Delete Child Feature with Parent" setting. This will cause issues if not addressed when the wider teams start adopting NX.
+
+BAE decision (BD)
+
+Within the concept design template / seed file, the axis system should be set to an absolute and maybe a different colour for clarity & recommended.
+
+BD
+
+Saving JT files at every save isn't optimal, could this be done periodically instead?
+
+Not having delay link update on can cause unexpected errors; increase awareness on how this works across the team. Might be worth implementing as default in the concept world.
+
+BD
+
+Save preferences (ability to save as default):
+
+Assembly load options
+
+BD / Siemens if required
+
+Confirmation around use of custom roles.
+
+BD
+
+Need to decide on the best practice for working with structures without CAD datasets (seed file assignment? customer default).
+
+BD
+
+Mass release of children and/or quick pre-release.
+
+Very time-consuming task that will need to be completed frequently with Tri-Lat briefcases & iterating.
+
+Slide 2
+Proposed change to the component positioning strategy for the top level (modelling a component absolute instead of in position).
+
+Improved wave linking strategy is required for future models, especially regarding wave-linked surfaces.
+
+Set and agree to a fixed scope from start to finish.
+
+When creating a new model / product structure based off a previous iteration (808 → 812), use the clone assembly.
+
+Keeps links within the correct assembly.
+
+Eliminates template assignment.
+
+Siemens recommendation is to use NX when creating new product structures in the future.
+
+Important to analyse both models carefully using the same toolset / analysis tools before raising too many concerns.
+
+(Canopy?)
+
+Slide 3
+Design of the underlying surfaces needs to consider blend constructions to ensure high quality.
+
+Many individual toolkit learnings:
+
+Studio Surface Alignment
+
+Curve analysis
+
+Correct feature selection
